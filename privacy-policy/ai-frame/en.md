@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 This privacy policy applies to the AI Frame app (hereby referred to as "Application") for mobile devices.
 
