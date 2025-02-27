@@ -2,11 +2,11 @@
 
 These Terms and Conditions apply to the AI Frame app (hereinafter referred to as "the Application") for mobile devices. The Application was developed as a Freemium service by (hereinafter referred to as "the Service Provider").
 
-## 1. Agreement to Terms
+### 1. Agreement to Terms
 
 By downloading or using the Application, you are automatically deemed to have agreed to these Terms and Conditions. Please read and understand these terms before using the Application.
 
-## 2. Prohibited Actions
+### 2. Prohibited Actions
 
 Unauthorized copying, modification, or misuse of trademarks related to the Application is strictly prohibited. The following actions are not permitted:
 
@@ -16,12 +16,12 @@ Unauthorized copying, modification, or misuse of trademarks related to the Appli
 
 All trademarks, copyrights, database rights, and other intellectual property rights related to the Application belong to the Service Provider.
 
-## 3. Modifications and Charges
+### 3. Modifications and Charges
 
 The Service Provider reserves the right to modify the Application or introduce charges for certain services to enhance its functionality and efficiency.
 However, any paid services will be clearly communicated in advance.
 
-## 4. Premium Plan Details
+### 4. Premium Plan Details
 
 The Premium Plan subscription agreement is concluded when the user completes the payment as outlined in the following section.
 
@@ -35,7 +35,7 @@ If the subscription is canceled mid-term, it will end on the last day of the sub
 
 Cancellation, changes to the payment method, or other management of the Premium Plan subscription will be conducted through the Apple App Store management screen in accordance with Apple Media Services Terms of Use set by Apple Inc.
 
-## 5. Handling of Personal Data and Device Security
+### 5. Handling of Personal Data and Device Security
 
 The Application stores and processes personal data provided by the user to deliver its services.
 
@@ -47,14 +47,14 @@ These actions may lead to the following risks:
 - Degradation of device security features
 - Malfunctioning or complete inoperability of the Application
 
-## 6. Third-Party Terms & Conditions
+### 6. Third-Party Terms & Conditions
 
 The Application utilizes the following third-party services, each of which has its own Terms and Conditions. Please review them:
 
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-## 7. Internet Connection Responsibility
+### 7. Internet Connection Responsibility
 
 Some functions of the Application require a Wi-Fi or mobile data connection.
 The Service Provider is not responsible for the following situations:
@@ -64,7 +64,7 @@ The Service Provider is not responsible for the following situations:
 
 Additionally, if the device's contract holder is a different person, it is assumed that the user has obtained the contract holder’s permission.
 
-## 8. Device Management and User Responsibility
+### 8. Device Management and User Responsibility
 
 The Service Provider assumes no responsibility for how users utilize the Application.
 For example, the Service Provider is not liable in the following cases:
@@ -72,7 +72,7 @@ For example, the Service Provider is not liable in the following cases:
 - The Application becomes unusable due to a dead battery on the user’s device.
 - Any damage (direct or indirect) resulting from reliance on the information provided by the Application.
 
-## 9. Application Updates and Support
+### 9. Application Updates and Support
 
 The Service Provider strives to keep the Application up to date and accurate.
 However, as the information in the Application is provided by third parties, the Service Provider cannot guarantee its completeness.
@@ -87,14 +87,14 @@ If the Service Provider ceases to provide the Application, the following measure
 - All rights and licenses granted under these terms will terminate.
 - Users must stop using the Application and delete it from their device if necessary.
 
-## 10. Changes to the Terms and Conditions
+### 10. Changes to the Terms and Conditions
 
 The Service Provider reserves the right to update these Terms and Conditions as needed.
 Any changes will be communicated by posting the updated terms on this page.
 
 These Terms and Conditions take effect from January 1, 2025.
 
-## 11. Contact Information
+### 11. Contact Information
 
 If you have any questions or suggestions regarding these Terms and Conditions, please contact us at:
 
