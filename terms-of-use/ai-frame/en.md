@@ -95,4 +95,5 @@ These Terms and Conditions take effect from January 1, 2025.
 11. Contact Information
 
 If you have any questions or suggestions regarding these Terms and Conditions, please contact us at:
+
 📩 contact@aphananthe42.net
