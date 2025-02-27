@@ -1,34 +1,98 @@
 # Terms & Conditions
 
-These terms and conditions apply to the AI Frame app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Freemium service.
+These Terms and Conditions apply to the AI Frame app (hereinafter referred to as "the Application") for mobile devices. The Application was developed as a Freemium service by (hereinafter referred to as "the Service Provider").
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+1. Agreement to Terms
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+By downloading or using the Application, you are automatically deemed to have agreed to these Terms and Conditions. Please read and understand these terms before using the Application.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+2. Prohibited Actions
 
-Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
+Unauthorized copying, modification, or misuse of trademarks related to the Application is strictly prohibited. The following actions are not permitted:
+
+Attempting to extract the source code of the Application
+Translating the Application into other languages
+Creating derivative versions of the Application
+All trademarks, copyrights, database rights, and other intellectual property rights related to the Application belong to the Service Provider.
+
+3. Modifications and Charges
+
+The Service Provider reserves the right to modify the Application or introduce charges for certain services to enhance its functionality and efficiency.
+However, any paid services will be clearly communicated in advance.
+
+4. Premium Plan Details
+
+The Premium Plan subscription agreement is concluded when the user completes the payment as outlined in the following section.
+
+Users must follow the Apple Media Services Terms of Use set by Apple Inc.
+for payments when entering into the Premium Plan subscription agreement.
+Even if the Premium Plan subscription agreement is established in the middle of a month, the Premium Plan fee is not prorated, and users must pay the full monthly or yearly fee.
+
+Cancellation
+Users may cancel the Premium Plan subscription at any time.
+If the subscription is canceled mid-term, it will end on the last day of the subscription period, and no refund will be issued for the unused portion of the subscription.
+
+Cancellation, changes to the payment method, or other management of the Premium Plan subscription will be conducted through the Apple App Store management screen in accordance with Apple Media Services Terms of Use set by Apple Inc.
+
+5. Handling of Personal Data and Device Security
+
+The Application stores and processes personal data provided by the user to deliver its services.
+
+Users are responsible for maintaining the security of their smartphones and access to the Application.
+Additionally, jailbreaking or rooting, which involves removing restrictions imposed by the device's official operating system, is not recommended.
+These actions may lead to the following risks:
+
+Exposure to malware and viruses
+Degradation of device security features
+Malfunctioning or complete inoperability of the Application
+
+6. Third-Party Terms & Conditions
+
+The Application utilizes the following third-party services, each of which has its own Terms and Conditions. Please review them:
 
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+7. Internet Connection Responsibility
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+Some functions of the Application require a Wi-Fi or mobile data connection.
+The Service Provider is not responsible for the following situations:
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+The Application does not function properly due to a lack of internet access or exceeded data limits.
+Any data charges or additional costs incurred when using mobile data (including roaming fees).
+Additionally, if the device's contract holder is a different person, it is assumed that the user has obtained the contract holder’s permission.
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+8. Device Management and User Responsibility
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+The Service Provider assumes no responsibility for how users utilize the Application.
+For example, the Service Provider is not liable in the following cases:
 
-**Changes to These Terms and Conditions**
+The Application becomes unusable due to a dead battery on the user’s device.
+Any damage (direct or indirect) resulting from reliance on the information provided by the Application.
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+9. Application Updates and Support
 
-These terms and conditions are effective as of 2025-01-01
+The Service Provider strives to keep the Application up to date and accurate.
+However, as the information in the Application is provided by third parties, the Service Provider cannot guarantee its completeness.
 
-**Contact Us**
+Additionally, regarding future updates of the Application, please note the following:
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at contact@aphananthe42.net.
+Changes in operating system requirements may require updating the Application.
+The Service Provider cannot guarantee full compatibility with all versions of the user's device OS.
+The Service Provider may discontinue the Application at any time without prior notice.
+
+If the Service Provider ceases to provide the Application, the following measures will apply:
+- All rights and licenses granted under these terms will terminate.
+- Users must stop using the Application and delete it from their device if necessary.
+
+10. Changes to the Terms and Conditions
+
+The Service Provider reserves the right to update these Terms and Conditions as needed.
+Any changes will be communicated by posting the updated terms on this page.
+
+These Terms and Conditions take effect from January 1, 2025.
+
+11. Contact Information
+
+If you have any questions or suggestions regarding these Terms and Conditions, please contact us at:
+📩 contact@aphananthe42.net
