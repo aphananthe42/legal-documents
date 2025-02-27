@@ -10,9 +10,10 @@ By downloading or using the Application, you are automatically deemed to have ag
 
 Unauthorized copying, modification, or misuse of trademarks related to the Application is strictly prohibited. The following actions are not permitted:
 
-Attempting to extract the source code of the Application
-Translating the Application into other languages
-Creating derivative versions of the Application
+- Attempting to extract the source code of the Application
+- Translating the Application into other languages
+- Creating derivative versions of the Application
+
 All trademarks, copyrights, database rights, and other intellectual property rights related to the Application belong to the Service Provider.
 
 3. Modifications and Charges
@@ -42,9 +43,9 @@ Users are responsible for maintaining the security of their smartphones and acce
 Additionally, jailbreaking or rooting, which involves removing restrictions imposed by the device's official operating system, is not recommended.
 These actions may lead to the following risks:
 
-Exposure to malware and viruses
-Degradation of device security features
-Malfunctioning or complete inoperability of the Application
+- Exposure to malware and viruses
+- Degradation of device security features
+- Malfunctioning or complete inoperability of the Application
 
 6. Third-Party Terms & Conditions
 
@@ -58,8 +59,9 @@ The Application utilizes the following third-party services, each of which has i
 Some functions of the Application require a Wi-Fi or mobile data connection.
 The Service Provider is not responsible for the following situations:
 
-The Application does not function properly due to a lack of internet access or exceeded data limits.
-Any data charges or additional costs incurred when using mobile data (including roaming fees).
+- The Application does not function properly due to a lack of internet access or exceeded data limits.
+- Any data charges or additional costs incurred when using mobile data (including roaming fees).
+
 Additionally, if the device's contract holder is a different person, it is assumed that the user has obtained the contract holder’s permission.
 
 8. Device Management and User Responsibility
@@ -67,8 +69,8 @@ Additionally, if the device's contract holder is a different person, it is assum
 The Service Provider assumes no responsibility for how users utilize the Application.
 For example, the Service Provider is not liable in the following cases:
 
-The Application becomes unusable due to a dead battery on the user’s device.
-Any damage (direct or indirect) resulting from reliance on the information provided by the Application.
+- The Application becomes unusable due to a dead battery on the user’s device.
+- Any damage (direct or indirect) resulting from reliance on the information provided by the Application.
 
 9. Application Updates and Support
 
@@ -78,8 +80,8 @@ However, as the information in the Application is provided by third parties, the
 Additionally, regarding future updates of the Application, please note the following:
 
 Changes in operating system requirements may require updating the Application.
-The Service Provider cannot guarantee full compatibility with all versions of the user's device OS.
-The Service Provider may discontinue the Application at any time without prior notice.
+- The Service Provider cannot guarantee full compatibility with all versions of the user's device OS.
+- The Service Provider may discontinue the Application at any time without prior notice.
 
 If the Service Provider ceases to provide the Application, the following measures will apply:
 - All rights and licenses granted under these terms will terminate.
